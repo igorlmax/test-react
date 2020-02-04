@@ -1,0 +1,5 @@
+Babel facilitates ES6 syntax
+
+Webpack - bundles all JS files so they can run from one place and work together
+
+use Yarn instead of Npm
